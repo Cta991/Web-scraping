@@ -93,7 +93,7 @@ except:
 # set up the SMTP server
 s = smtplib.SMTP('smtp.gmail.com', 587)
 s.starttls()
-s.login('cuong.bot.72@gmail.com', 'khca18111999')
+s.login('...)
 
 sender = 'cuong.bot.72@gmail.com'
 receiver = 'ttcuong18111999@gmail.com'
