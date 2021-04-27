@@ -6,3 +6,4 @@ Projects:
 - Yahoo_finance and Yahoo_finance_2: scrape https://finance.yahoo.com/. However, user need to input the link of the stock/bond he/she is looking for manually to run these code. Yahoo_finance will then return the list of information available on the required stock/bond, which the user can access by inputting the listed information name. Yahoo_finance_2 goes 1 step furthur and save the list of information inside a sqlite3 database.
 - tiki_4: scrape https://tiki.vn/nha-sach-tiki/c8322. It can be altered to scrape any other product, not just book. This code also save all the book's information available on the website into a sqlite3 databse.
 - amazon.py: scrape https://www.amazon.com/(just the gaming console category). Also save all the book's information available on the website into a sqlite3 databse.
+- sosanh.py: scrape 3 webites: nhanam, tiki and fahasa in order to compare price of a particular book.
